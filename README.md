@@ -8,16 +8,16 @@ train.py: main 函数中的 data_root，将其改为自己数据集的路径
 
 **花分类数据集的组织形式**  
 data/:  
-空格, train/:  
-     daisy/:  
-     dandelion/:  
-     roses/:  
-     sunflowers/:  
-     tulips/:
-   val/:  
-     daisy/:  
-     dandelion/:  
-     roses/:  
-     sunflowers/:  
-     tulips/:  
+　　train/:  
+　　　　daisy/:  
+　　　　dandelion/:  
+　　　　roses/:  
+　　　　sunflowers/:  
+　　　　tulips/:
+　　val/:  
+　　　　daisy/:  
+　　　　dandelion/:  
+　　　　roses/:  
+　　　　sunflowers/:  
+　　　　tulips/:  
 上述的 / 表示文件夹，在最终的文件夹中存放着属于各类花的图片
