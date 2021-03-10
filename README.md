@@ -8,7 +8,7 @@ train.py: main 函数中的 data_root，将其改为自己数据集的路径
 
 **花分类数据集的组织形式**
 data/:  
-   train/:  
+\quad\quad train/:  
      daisy/:  
      dandelion/:  
      roses/:  
