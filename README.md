@@ -6,9 +6,9 @@ VGG 模型测试仓库
 **训练时需要修改的路径：**
 train.py: main 函数中的 data_root，将其改为自己数据集的路径
 
-**花分类数据集的组织形式**
+**花分类数据集的组织形式**  
 data/:  
-\quad\quad train/:  
+空格, train/:  
      daisy/:  
      dandelion/:  
      roses/:  
